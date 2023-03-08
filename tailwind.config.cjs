@@ -5,6 +5,7 @@ const config = {
     extend: {},
   },
   plugins: [require('@tailwindcss/typography')],
+  darkMode: 'media'
 };
 
 module.exports = config;
